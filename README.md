@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IAMNITESHPANDIT
+- 👋 Hi, I’m Nitesh Kumar Pandey
 - 👀 I’m interested in Learning new Technologies.
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on HackThon or Open Source Contribution
