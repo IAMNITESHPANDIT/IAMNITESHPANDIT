@@ -12,8 +12,8 @@
 ### Connect with me:
 
 
-[![website](https://commons.wikimedia.org/wiki/File:18x14_Video_Clic_Player.svg)](https://www.youtube.com/channel/UCwVsw7nPyTv9pcDMNK272Aw#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCwVsw7nPyTv9pcDMNK272Aw#gh-dark-mode-only)
+[https://commons.wikimedia.org/wiki/File:18x14_Video_Clic_Player.svg](https://www.youtube.com/channel/UCwVsw7nPyTv9pcDMNK272Aw#gh-light-mode-only)
+[https://commons.wikimedia.org/wiki/File:18x14_Video_Clic_Player.svg](https://www.youtube.com/channel/UCwVsw7nPyTv9pcDMNK272Aw#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 
