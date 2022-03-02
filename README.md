@@ -6,16 +6,16 @@
 
 - 🌱 I’m currently learning Full-Stack-Developer 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about 
+- 🥅 2022 Goals: Learn more about Web Dev
 - ⚡ Fun fact: I love to Spend time in Alone
 
 ### Connect with me:
 
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCwVsw7nPyTv9pcDMNK272Aw#gh-light-mode-only)
+[![website](https://commons.wikimedia.org/wiki/File:18x14_Video_Clic_Player.svg)](https://www.youtube.com/channel/UCwVsw7nPyTv9pcDMNK272Aw#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCwVsw7nPyTv9pcDMNK272Aw#gh-dark-mode-only)
 &nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCwVsw7nPyTv9pcDMNK272Aw"  alt="YOUTUBE"/>
+
 
 
 
