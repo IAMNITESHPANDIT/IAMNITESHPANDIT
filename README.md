@@ -12,25 +12,25 @@
 ### Connect with me:
 
 
-[https://commons.wikimedia.org/wiki/File:18x14_Video_Clic_Player.svg](https://www.youtube.com/channel/UCwVsw7nPyTv9pcDMNK272Aw#gh-light-mode-only)
-[https://commons.wikimedia.org/wiki/File:18x14_Video_Clic_Player.svg](https://www.youtube.com/channel/UCwVsw7nPyTv9pcDMNK272Aw#gh-dark-mode-only)
+[Youtube](https://www.youtube.com/channel/UCwVsw7nPyTv9pcDMNK272Aw#gh-light-mode-only)
+[Youtube](https://www.youtube.com/channel/UCwVsw7nPyTv9pcDMNK272Aw#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 
 
 
-[![website](./img/twitter-light.svg)](https://twitter.com/iamniteshpandit#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/iamniteshpandit#gh-dark-mode-only)
+[Twitter](https://twitter.com/iamniteshpandit#gh-light-mode-only)
+[Twitter](https://twitter.com/iamniteshpandit#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/iamniteshpandit#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/iamniteshpandit#gh-dark-mode-only)
+[linkedin](https://linkedin.com/in/iamniteshpandit#gh-light-mode-only)
+[linkedin](https://linkedin.com/in/iamniteshpandit#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 
-[![website](./img/instagram-light.svg)](https://instagram.com/iamniteshpandit#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/iamniteshpandit#gh-dark-mode-only)
+[Instagram](https://instagram.com/iamniteshpandit#gh-light-mode-only)
+[Instagram](https://instagram.com/iamniteshpandit#gh-dark-mode-only)
 
 ### Languages and Tools:
 
