@@ -82,8 +82,8 @@
 
 
 
+[website]: https://twitter.com/iamniteshpandit
 [twitter]: https://twitter.com/iamniteshpandit
 [youtube]: https://youtube.com/https://www.youtube.com/channel/UCwVsw7nPyTv9pcDMNK272Aw
 [instagram]: https://instagram.com/iamniteshpandit
 [linkedin]: https://linkedin.com/in/iamniteshpandit
-
