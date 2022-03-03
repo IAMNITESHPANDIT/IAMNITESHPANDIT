@@ -36,8 +36,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamniteshpandit&show_icons=true&locale=en&layout=compact" alt="iamniteshpandit" /></p>
 <br/>
 <br/>
-<h3 align="left">Git Stats:</h3>
+<h3 align="right">Git Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamniteshpandit&show_icons=true&locale=en" alt="iamniteshpandit" /></p>
 <br/>
 <br/>
+<h3 align="left">Contribution:</h3>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamniteshpandit&" alt="iamniteshpandit" /></p>
