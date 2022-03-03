@@ -41,8 +41,6 @@
 <h3 align="right">Git Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamniteshpandit&show_icons=true&locale=en" alt="iamniteshpandit" /></p>
 </h3>
- <br/>
-<br/>
-<h3 align="left">Contribution:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamniteshpandit&" alt="iamniteshpandit" /></p>
+<h3 align="left">Contribution:
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamniteshpandit&" alt="iamniteshpandit" /></p></h3>
