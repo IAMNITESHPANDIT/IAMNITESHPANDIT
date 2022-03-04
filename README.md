@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **niteshpandit676@gmail.com**
 
-- ⚡ Fun fact **I'm ui and ux designer**
+- ⚡ Fun fact **I'm ui and ux designer😂🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
