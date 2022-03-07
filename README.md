@@ -1,32 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My profile</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-</head>
-<body>
-    
-    <img src="images/Code with Nitesh-1.png"  alt="img" width="100%" height="200px"/>
-    
-    Hi 👋, I'm Nitesh Kumar Pandey 
-    A passionate frontend developer from India
-   
-       <p> - 🔭 I’m currently working on **E-Commerce Application**</p>
 
-        <p>- 🌱 I’m currently learning **ReactJS**</p>
+   <h1 text-align="center"> Hi 👋, I'm Nitesh Kumar Pandey</h1> 
+    <h1>A passionate frontend developer from India</h1>
+   
+       - 🔭 I’m currently working on **E-Commerce Application**
+
+        - 🌱 I’m currently learning **ReactJS**</p>
         
-       <p>  - 👯 I’m looking to collaborate on **other content creators and Developer**</p>
+       - 👯 I’m looking to collaborate on **other content creators and Developer**
         
-        <p>- 👨‍💻 All of my projects are available at [https://github.com/IAMNITESHPANDIT](https://github.com/IAMNITESHPANDIT)</p>
+       - 👨‍💻 All of my projects are available at [https://github.com/IAMNITESHPANDIT](https://github.com/IAMNITESHPANDIT)
         
-        <p>- 💬 Ask me about **Html,CSS,Javascript and React**</p>
+        - 💬 Ask me about **Html,CSS,Javascript and React**
         
-        <p> - 📫 How to reach me **niteshpandit676@gmail.com**</p>
-        
-        <p>- ⚡ Fun fact **I'm ui and ux designer😂🤣** </p>
+         - 📫 How to reach me **niteshpandit676@gmail.com**
+         
+        - ⚡ Fun fact **I'm ui and ux designer😂🤣** 
        
        
 
@@ -58,6 +46,3 @@
 
 <h3 align="left">Contribution:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamniteshpandit&" alt="iamniteshpandit" /></p></h3>
-
-</body>
-</html>
