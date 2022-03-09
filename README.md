@@ -1,6 +1,6 @@
 
-   <h1 text-align="center"> Hi 👋, I'm Nitesh Kumar Pandey</h1> 
-    <h1>A passionate frontend developer from India</h1>
+ <h1 align="center">Hi 👋, I'm Nitesh Kumar Pandey</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
    
        - 🔭 I’m currently working on **E-Commerce Application**
 
@@ -14,8 +14,11 @@
         
          - 📫 How to reach me **niteshpandit676@gmail.com**
          
-        - ⚡ Fun fact **I'm ui and ux designer😂🤣** 
+       - ⚡ Fun fact **I'm ui and ux designer**
        
+       - 🌱 I’m currently learning **Web Development**
+
+
        
 
 <h3 align="left">Connect with me:</h3>
