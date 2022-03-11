@@ -4,17 +4,17 @@
    
 - 🔭 I’m currently working on **E-Commerce Application**
         
-       - 👯 I’m looking to collaborate on **other content creators and Developer**
+- 👯 I’m looking to collaborate on **other content creators and Developer**
         
-       - 👨‍💻 All of my projects are available at [https://github.com/IAMNITESHPANDIT](https://github.com/IAMNITESHPANDIT)
+- 👨‍💻 All of my projects are available at [https://github.com/IAMNITESHPANDIT](https://github.com/IAMNITESHPANDIT)
         
-        - 💬 Ask me about **Html,CSS,Javascript and React**
+- 💬 Ask me about **Html,CSS,Javascript and React**
         
-         - 📫 How to reach me **niteshpandit676@gmail.com**
+- 📫 How to reach me **niteshpandit676@gmail.com**
          
-       - ⚡ Fun fact **I'm ui and ux designer**
+- ⚡ Fun fact **I'm ui and ux designer**
        
-       - 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development**
 
 
        
