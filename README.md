@@ -1,8 +1,6 @@
 
  <h1 align="center">Hi 👋, I'm Nitesh Kumar Pandey</h1>
 <h3 align="center">A passionate Web developer</h3>
-   
-- 🔭 I’m currently working on **E-Commerce Application**
         
 - 👯 I’m looking to collaborate on **other content creators and Developer**
         
