@@ -12,7 +12,7 @@
          
 - ⚡ Fun fact **I'm ui and ux designer**
        
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Mern-Stack Development 😎😎😎😎😎**
 
 
        
