@@ -6,13 +6,13 @@
         
 - 👨‍💻 All of my projects are available at [https://github.com/IAMNITESHPANDIT](https://github.com/IAMNITESHPANDIT)
         
-- 💬 Ask me about **Html,CSS,Javascript and React**
+- 💬 Ask me about **Html,CSS,Javascript and Mern-Stack**
         
 - 📫 How to reach me **niteshpandit676@gmail.com**
          
 - ⚡ Fun fact **I'm ui and ux designer**
        
-- 🌱 I’m currently learning **Mern-Stack Development 😎😎😎😎😎**
+- 🌱 I’m currently learning **DevOps 😎😎😎😎😎**
 
 
        
