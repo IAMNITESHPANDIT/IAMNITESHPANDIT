@@ -12,7 +12,9 @@
          
 - ⚡ Fun fact **I'm ui and ux designer**
        
-- 🌱 I’m currently learning **DevOps 😎😎😎😎😎**
+- 🌱 I’m currently learning **  DevOps 😎😎😎😎😎**
+
+- ⚡ I’m doing **100-Days-Code**
 
 
        
