@@ -1,5 +1,5 @@
 
- <h1 align="center">Hi 👋, I'm Nitesh Kumar Pandey</h1>
+ <h1 align="center">Hi 👋, I'm Nitesh Pandey</h1>
 <h3 align="center">A passionate Web developer</h3>
         
 - 👯 I’m looking to collaborate on **other content creators and Developer**
