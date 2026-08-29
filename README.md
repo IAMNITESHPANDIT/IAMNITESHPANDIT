@@ -1,49 +1,381 @@
+<div align="center">
 
- <h1 align="center">Hi 👋, I'm Nitesh Pandey</h1>
-<h3 align="center">A passionate Web developer</h3>
-        
-- 👯 I’m looking to collaborate on **other content creators and Developer**
-        
-- 👨‍💻 All of my projects are available at [https://github.com/IAMNITESHPANDIT](https://github.com/IAMNITESHPANDIT)
-        
-- 💬 Ask me about **Html,CSS,Javascript and Mern-Stack**
-        
-- 📫 How to reach me **niteshpandit676@gmail.com**
-         
-- ⚡ Fun fact **I'm ui and ux designer**
-       
-- 🌱 I’m currently learning **  DevOps 😎😎😎😎😎**
+# 👋 Hi, I'm Nitesh Pandey
 
-- ⚡ I’m doing **100-Days-Code**
+### `AI Engineer` • `Software Engineer` • `GenAI & RAG` • `Cloud`
 
+**Building intelligent, scalable and production-ready software systems.**
 
-       
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iamniteshpandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamniteshpandit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iamniteshpandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamniteshpandit" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/iamniteshpandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="iamniteshpandit" height="30" width="40" /></a>
-<a href="https://fb.com/iamniteshpandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamniteshpandit" height="30" width="40" /></a>
-<a href="https://instagram.com/iamniteshpandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamniteshpandit" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/IAMNITESHPANDIT">
+    <img src="https://img.shields.io/badge/GitHub-IAMNITESHPANDIT-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/iamniteshpandit">
+    <img src="https://img.shields.io/badge/LinkedIn-Nitesh%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nitesh.web.app@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nitesh.web.app%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamniteshpandit&label=Profile%20views&color=0e75b6&style=flat" alt="iamniteshpandit" /> </p>
+<img src="https://komarev.com/ghpvc/?username=IAMNITESHPANDIT&label=PROFILE%20VIEWS&style=flat-square" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamniteshpandit" alt="iamniteshpandit" /></a> </p>
+</div>
 
-<p align="left"> <a href="https://twitter.com/iamniteshpandit" target="blank"><img src="https://img.shields.io/twitter/follow/iamniteshpandit?logo=twitter&style=for-the-badge" alt="iamniteshpandit" /></a> </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamniteshpandit&show_icons=true&locale=en&layout=compact" alt="iamniteshpandit" /></p>
-<br/>
-<br/>
-<br/>
-<br/>
-<h3 align="right">Git Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamniteshpandit&show_icons=true&locale=en" alt="iamniteshpandit" /></p>
-</h3>
+## 🧠 About Me
 
-<h3 align="left">Contribution:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamniteshpandit&" alt="iamniteshpandit" /></p></h3>
+I'm an **AI Engineer and Software Engineer** focused on building intelligent applications, scalable backend systems and modern cloud-native architectures.
+
+I work across the engineering stack — from **LLM-powered applications and RAG pipelines to full-stack products, APIs, microservices, cloud infrastructure and production deployments**.
+
+### Core Expertise
+
+* 🤖 Generative AI & LLM Applications
+* 🧠 Retrieval-Augmented Generation (RAG)
+* 🔎 Semantic Search & Vector Retrieval
+* 📚 Embeddings & Knowledge Systems
+* 🤖 AI Agents & Agentic Workflows
+* 📄 Document Intelligence
+* ⚡ Backend & API Engineering
+* 🏗️ Microservices & Distributed Systems
+* 🌐 Full-Stack Application Architecture
+* ☁️ AWS & Microsoft Azure
+* 🐳 Docker & Kubernetes
+* 🔄 CI/CD & Infrastructure Automation
+
+---
+
+# 🤖 AI & GenAI Engineering
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LlamaIndex-6B4FBB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-6C5CE7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Search-7B61FF?style=for-the-badge"/>
+
+</p>
+
+### AI Architecture
+
+```text
+                    ┌─────────────────────┐
+                    │     User Query      │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │   Query Processing  │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ Semantic Retrieval  │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │   Vector Database   │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ Context Generation │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │        LLM          │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │ Answer + Citations  │
+                    └─────────────────────┘
+```
+
+### AI Capabilities
+
+* LLM application architecture
+* RAG pipelines
+* Retrieval & ranking
+* Vector search
+* Embedding pipelines
+* Prompt engineering
+* Context engineering
+* AI agents
+* Tool calling
+* Document intelligence
+* Semantic search
+* LLM evaluation
+* AI API development
+
+---
+
+# 💻 Frontend Engineering
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+
+</p>
+
+---
+
+# ⚙️ Backend & API Engineering
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🗄️ Databases & Data Engineering
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector%20Databases-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+
+</p>
+
+### Data & Retrieval
+
+`PostgreSQL` • `MongoDB` • `MySQL` • `Redis` • `Vector Databases` • `Kafka` • `Semantic Search`
+
+---
+
+# ☁️ Cloud Engineering
+
+## Amazon Web Services
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+<img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white"/>
+
+</p>
+
+## Microsoft Azure
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20App%20Service-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+</p>
+
+---
+
+# 🐳 DevOps & Infrastructure
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
+
+### Infrastructure
+
+`Docker` • `Kubernetes` • `Terraform` • `CI/CD` • `Linux` • `Nginx` • `Cloud Deployment`
+
+---
+
+# 🧪 Development & API Tools
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</p>
+
+---
+
+# 🏗️ System Architecture
+
+```text
+                         ┌──────────────────┐
+                         │      CLIENT      │
+                         │ React / Next.js  │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │    API GATEWAY   │
+                         └────────┬─────────┘
+                                  │
+                    ┌─────────────┴─────────────┐
+                    │                           │
+                    ▼                           ▼
+             ┌─────────────┐             ┌─────────────┐
+             │   FastAPI   │             │   Node.js   │
+             │ AI Services │             │   Services  │
+             └──────┬──────┘             └──────┬──────┘
+                    │                           │
+                    └─────────────┬─────────────┘
+                                  │
+              ┌───────────────────┼───────────────────┐
+              │                   │                   │
+              ▼                   ▼                   ▼
+        ┌───────────┐       ┌───────────┐       ┌───────────┐
+        │ PostgreSQL│       │  MongoDB  │       │   Redis   │
+        └───────────┘       └───────────┘       └───────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │   Vector Store   │
+                         │  RAG Retrieval   │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │      LLM         │
+                         │ AI / GenAI Layer │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                    ┌──────────────────────────┐
+                    │       AWS / Azure        │
+                    │ Docker • Kubernetes      │
+                    │ Terraform • CI/CD        │
+                    └──────────────────────────┘
+```
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 Production RAG Platform
+
+AI-powered knowledge system capable of transforming documents into a searchable and conversational knowledge base.
+
+### Pipeline
+
+`Documents → Parsing → Chunking → Embeddings → Vector DB → Retrieval → LLM → Citations`
+
+**Stack**
+
+`Python` `FastAPI` `LLMs` `RAG` `Vector DB` `Docker` `AWS`
+
+---
+
+## 🤖 Intelligent AI Applications
+
+Building AI-powered applications combining LLMs, semantic retrieval, structured APIs and modern web interfaces.
+
+**Stack**
+
+`Next.js` `TypeScript` `Python` `FastAPI` `LLMs` `RAG` `PostgreSQL`
+
+---
+
+## 🏗️ Microservices Platform
+
+Scalable backend architecture designed around independently deployable services and cloud-native infrastructure.
+
+**Stack**
+
+`Node.js` `FastAPI` `Docker` `Kubernetes` `AWS` `Azure` `MongoDB` `PostgreSQL`
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=IAMNITESHPANDIT&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAMNITESHPANDIT&layout=compact&hide_border=true" height="180"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IAMNITESHPANDIT&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=IAMNITESHPANDIT&theme=flat&no-frame=true&margin-w=10"/>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+I'm interested in building and collaborating on:
+
+**AI • GenAI • RAG • LLM Applications • Backend Systems • Cloud • Open Source**
+
+<div align="center">
+
+<a href="https://linkedin.com/in/iamniteshpandit">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nitesh.web.app@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/IAMNITESHPANDIT">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `BUILD • SCALE • AUTOMATE • INTELLIGENCE`
+
+**Engineering software. Building intelligent systems.**
+
+</div>
